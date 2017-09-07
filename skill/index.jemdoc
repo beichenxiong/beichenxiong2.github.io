@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{skill/index.html}{../}
+# jemdoc: addcss{../jemdoc.css}
+= Skill
+
+== Programming
+
+ - Matlab:  
+ - Python: 
+ - Java: 
+ - JavaScript: 
+ - R: 
+
+== Software
+
+ - Latex
+ - Eviews 
+ - SPSS
+
+== Links
+
+- Some projects I did.
+[https://github.com/beichenxiong See here]
+
+ 

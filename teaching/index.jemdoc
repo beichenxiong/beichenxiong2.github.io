@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{teaching/teaching.html}{../}
+# jemdoc: addcss{../jemdoc.css}
+= Teaching
+
+== Teaching Assistant at Tsinghua-Berkeley Shenzhen Institute
+
+~~~
+{}{table}{TABLENAME}
+*Course* | *Title* | *Instructor* | *Semester*  || 
+86000402 | Traffic modeling and simulation | [http://www.sie.arizona.edu/wei-hua-lin Lin Weihua] | 2016-2017 Summer 
+~~~
+
+
